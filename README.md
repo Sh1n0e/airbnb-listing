@@ -8,4 +8,11 @@ My current implementation is with using python and the pandas library to be able
 
 ## Notes
 
-LOTS of 
+LOTS of unnecessary headers within this csv so I have now narrowed it down.
+
+
+## Road Map 
+
+1. Create database out of new data
+2. Find out how to manipulate database
+3. 
