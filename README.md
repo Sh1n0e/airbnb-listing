@@ -15,6 +15,12 @@ Results have definitely been narrowed down now and a database has been made usin
 1. Working between my PC and laptop, I have used two different csv files (one has links, this current one does not)
 2. So I got the results I wanted minus the links so that I can actually go check out the listings now
 
+-----
+
+## Update 2 
+1. Updated database and script to include the same entries but with url's as well so the website can actually be visited
+2. had AI assistance to make a quick GUI to be able to iterate through and graphically display to a user all the entries
+3. Will work on filters to make looking through easier because there are THOUSANDS of items in here (not literal number but there is a lot)
 
 ## Road Map 
 
@@ -22,3 +28,4 @@ Results have definitely been narrowed down now and a database has been made usin
 2. Move on to create a UI that interacts with the database 
 3. Make it look prettier after
 4. Work on miscallaneous features
+5. Add ability to filter
