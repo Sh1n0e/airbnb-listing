@@ -10,9 +10,15 @@ My current implementation is with using python and the pandas library to be able
 
 LOTS of unnecessary headers within this csv so I have now narrowed it down.
 
+## Update
+Results have definitely been narrowed down now and a database has been made using sqlite. Main thing I noticed was:
+1. Working between my PC and laptop, I have used two different csv files (one has links, this current one does not)
+2. So I got the results I wanted minus the links so that I can actually go check out the listings now
+
 
 ## Road Map 
 
-1. Create database out of new data
-2. Find out how to manipulate database
-3. 
+1. Update database to also include links to listings provided by database
+2. Move on to create a UI that interacts with the database 
+3. Make it look prettier after
+4. Work on miscallaneous features
